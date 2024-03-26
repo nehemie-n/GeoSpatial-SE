@@ -11,6 +11,7 @@ notebook = "*"
 matplotlib = "*"
 mapclassify = "*"
 xlrd = "*"
+contextily = "*"
 
 [dev-packages]
 
